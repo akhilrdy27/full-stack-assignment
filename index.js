@@ -148,7 +148,7 @@ app.post("/submissions", function(req, res) {
 
 
 
-
+// added this comment just to check  commit through intellij
 app.listen(port, function() {
   console.log(`Example app listening on port ${port}`)
 })
